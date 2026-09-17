@@ -15,18 +15,12 @@ Custom **15:1 3D-printed cycloidal drive** designed from parametric first princi
 
 Iterated through **4 hardware prototypes** to characterize FDM manufacturing tolerances (±0.2 mm on lobe diameter), sliding vs. rolling friction at output pins, and stepper misstep behavior under load. Introduced **needle bearings on the output pins** to convert sliding to rolling contact.
 
-### First iteration
-![First iteration](docs/images/gearbox-first-iteration.png)
-
-### Final iteration (V1)
-![Assembled](docs/images/gearbox-assembled.png)
-![Backlit prototype](docs/images/gearbox-prototype-backlit.jpg)
+Full design log with iteration renders, prototype photos, DFM findings, and test results:
+[`docs/cycloidal-gearbox-design-log.pptx`](docs/cycloidal-gearbox-design-log.pptx)
 
 ## Current work
 
 Redesigning from scratch to a **44 mm OD** package — roughly **60% smaller** than the first version — to fit inside the ALFRED joint housings.
-
-![V2 cross-section](docs/images/gearbox-v2-crosssection.png)
 
 ## Contact
 
